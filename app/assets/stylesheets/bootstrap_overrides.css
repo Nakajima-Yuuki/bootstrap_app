@@ -1,0 +1,9 @@
+.alert-success {
+    background-color: pink;
+  }
+
+.label-success {
+ position: relative;
+ bottom: 30px;
+ left: 60px;   
+}
