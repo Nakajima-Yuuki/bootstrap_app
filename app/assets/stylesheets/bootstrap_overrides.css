@@ -2,8 +2,9 @@
     background-color: pink;
   }
 
-.label-success {
+.btn-success {
  position: relative;
- bottom: 30px;
- left: 60px;   
+
+ bottom: 35px;
+ left: 80px;   
 }
